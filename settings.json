@@ -63,7 +63,7 @@
   },
 
   // confirmations
-  "confirmations": 40,
+  "confirmations": 11,
 
   // language settings
   "locale": "locale/en.json",
